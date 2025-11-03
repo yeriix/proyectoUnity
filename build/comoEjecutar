@@ -24,7 +24,7 @@
 
 -Dona permisos d’execució:
 
-chmod +x "THE FLOOR IS LAVA!"
+chmod +x "build linux.x86_64"
   
 Executa el joc:
 
