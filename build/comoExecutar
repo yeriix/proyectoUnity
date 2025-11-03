@@ -1,0 +1,31 @@
+"Windows"
+
+-Descarrega el fitxer ZIP de la carpeta de Drive anomenada “build Windows”.
+
+-Un cop descarregat, ves a la carpeta Descargas del teu Explorador d’Arxius.
+
+-Fes clic dret al fitxer i selecciona “Extraer todo…” per descomprimir-lo.
+
+-Dins la carpeta descomprimida trobaràs diversos fitxers.
+
+-Localitza l’executable del joc, anomenat “THE FLOOR IS LAVA!”
+
+-Doble clic per iniciar el joc
+
+"Linux"
+
+-Descarrega el fitxer ZIP de la carpeta de Drive anomenada “build Linux”.
+
+-Obre la carpeta Descàrregues i descomprimeix el fitxer (clic dret → “Extraer aquí”).
+
+-Obre la carpeta descomprimida.
+
+-Localitza el fitxer executable del joc (THE FLOOR IS LAVA!).
+
+-Dona permisos d’execució:
+
+chmod +x "THE FLOOR IS LAVA!"
+  
+Executa el joc:
+
+./THE\ FLOOR\ IS\ LAVA!
